@@ -1,4 +1,9 @@
 /* Общие стили */
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
 a {
   text-decoration: none;
 }
@@ -21,17 +26,21 @@ body
 {
 border-bottom: 1px solid #e7e9fc;
 }
-.container
+/* .container
 {
   width: 1158px;
   margin: 0 auto;
   padding: 0 15px;
-}
+  }*/
 .header-conteiner
 {
 display: flex;
   justify-content: space-between;
   align-items: center;
+
+   width: 1158px;
+  margin: 0 auto;
+  padding: 0 15px;
 }
 .header-navigation
 {
