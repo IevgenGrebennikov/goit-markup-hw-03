@@ -114,6 +114,7 @@ color: #2e2f42;
 .service
 {
   background-color: #2e2f42;
+  padding: 188px 0;
 
 }
 .service-title
@@ -124,6 +125,7 @@ line-height: 1.07;
 letter-spacing: 0.02em;
 text-align: center;
 color: #ffffff;
+max-width: 496px;
 }
 .service-button
 {
@@ -135,6 +137,14 @@ color: #ffffff;
  letter-spacing: 0.04em;
 font-family: "Roboto", sans-serif;
 cursor: pointer;
+
+display: block;
+min-width: 169px;
+height: 56px;
+border: none;
+border-radius: 4px;
+cursor: pointer;
+
  
 }
 .service-button:hover,
