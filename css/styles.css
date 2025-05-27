@@ -26,19 +26,20 @@ body
 {
 border-bottom: 1px solid #e7e9fc;
 
+
 }
 .container
 {
   width: 1158px;
   margin: 0 auto;
   padding: 0 15px;
-  display: flex; 
+  
   }
 .header-conteiner
 {
   justify-content: space-between;
   align-items: center;
-
+display: flex; 
 }
 .header-navigation
 {
