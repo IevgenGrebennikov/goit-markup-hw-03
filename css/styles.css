@@ -249,7 +249,8 @@ text-align: center;
 /* портфолио */
 .portfolio
 {
-  padding-top: 120px; padding-bottom: 120px; 
+  padding-top: 120px; 
+  padding-bottom: 120px; 
 }
 .portfolio-title
 {
@@ -280,7 +281,7 @@ text-align: center;
 }
 .portfolio-list-item
 {
-  width: calc((100% - 48px) / 3);
+  width: calc((100%-48px)/3);
 }
 .portfolio-name
 {
