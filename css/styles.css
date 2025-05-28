@@ -285,12 +285,13 @@ text-align: center;
 }
 .portfolio-name
 {
+  margin-bottom: 8px;
   font-weight: 500;
   font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
 color: #2e2f42;
- margin-bottom: 8px;
+ 
 }
 .portfolio-item-text
 {
