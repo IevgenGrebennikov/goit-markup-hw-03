@@ -1,8 +1,14 @@
 /* Общие стили */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
 img {
   display: block;
   max-width: 100%;
   height: auto;
+  
 }
 a {
   text-decoration: none;
@@ -285,8 +291,10 @@ text-align: center;
  
 
 }
-.portfolio-list-item{
+.portfolio-list-item
+{
   width: calc((100% - 48px) / 3);
+ 
 }
   
 .portfolio-name
