@@ -83,6 +83,7 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5 ;
 margin-right: 76px;
+padding: 24px 0;
  }
 .header-logo-part 
 {
@@ -148,6 +149,7 @@ color: #2e2f42;
    min-height: 100vh; /* щоб секція займала весь екран */
   display: flex;
     align-items: center;     /* по вертикалі */
+    padding: 188px 0;
   }
   .service-inner {
   display: flex;
